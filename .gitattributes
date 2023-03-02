@@ -1,0 +1,13 @@
+assets/icon.png filter=lfs diff=lfs merge=lfs -text
+assets/tile01.png filter=lfs diff=lfs merge=lfs -text
+assets/return.png filter=lfs diff=lfs merge=lfs -text
+assets/title01.png filter=lfs diff=lfs merge=lfs -text
+assets/about.png filter=lfs diff=lfs merge=lfs -text
+assets/aboutDivingTitle.png filter=lfs diff=lfs merge=lfs -text
+assets/commingsoon.png filter=lfs diff=lfs merge=lfs -text
+assets/lotusFlower.png filter=lfs diff=lfs merge=lfs -text
+assets/pillars01.png filter=lfs diff=lfs merge=lfs -text
+assets/ChakraReading.gif filter=lfs diff=lfs merge=lfs -text
+assets/DauphinPlain.woff filter=lfs diff=lfs merge=lfs -text
+assets/arc_gif.gif filter=lfs diff=lfs merge=lfs -text
+assets/download2.gif filter=lfs diff=lfs merge=lfs -text
