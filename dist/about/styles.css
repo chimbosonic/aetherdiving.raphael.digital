@@ -1,0 +1,72 @@
+
+
+@font-face {
+  font-family: DauphinPlain;
+  src: url(/assets/DauphinPlain.woff);
+}
+
+html {
+  background-image: url('/assets/tile01.png');
+}
+html,body { height:100%; }
+
+h1, h2, h3 {
+  color: #A360a3;
+  font-family: DauphinPlain;
+}
+
+h1 {
+  color: #fff
+}
+
+.title {
+  text-align: left;
+}
+
+.about-text {
+  /* border-color: #A360a3; */
+  position: relative;
+  border: 10px solid #A360a3;
+  margin: 6% auto;
+  background-color: #FDD25E;
+  width: 700px;
+  text-align: left;
+  color:  #A360a3;
+  padding: 2%;
+  font-size: x-large;
+  font-family: DauphinPlain;
+}
+
+.p1 {
+  width: 60%;
+}
+
+.p2 {
+  text-align: right;
+}
+
+.return {
+  width: 10%;
+  position: relative;
+  right: unset;
+  left: 77%;
+}
+
+
+.lotus {
+  width: 360px;
+  position: absolute;
+  top: -144px;
+	right: -90px;
+  left: auto;
+  bottom: auto;
+}
+
+.chakra {
+  width: 400px;
+  position: absolute;
+  top: auto;
+	right: auto;
+  left: -149px;
+  bottom: -119px;
+}
